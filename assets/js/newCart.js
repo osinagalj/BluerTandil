@@ -9,3 +9,5 @@ $('a.remove').click(function(){
     $('a.btn.continue').click(function(){
       $('li.items').show(400);
     })
+
+
