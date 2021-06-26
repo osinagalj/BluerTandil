@@ -85,7 +85,7 @@
 	 transition: all 0.15s linear;
 }
  .heading a.continue:hover, .heading a.continue:focus, .heading a.continue:active {
-	 background: #f69679;
+	 background: #66a07b;
 }
  .heading a.continue:hover:after, .heading a.continue:focus:after, .heading a.continue:active:after {
 	 right: -10px;
@@ -154,7 +154,7 @@
 	 text-transform: uppercase;
 }
  .cart .items .cartSection p.stockStatus.out {
-	 color: #f69679;
+	 color: #66a07b;
 }
  .cart .items .cartSection .itemImg {
 	 width: 4em;
@@ -214,7 +214,7 @@
 	 transition: all 0.25s linear;
 }
  a.remove:hover {
-	 background: #f30;
+	 background: #66a07b;
 }
  .promoCode {
 	 border: 2px solid #efefef;
@@ -249,8 +249,8 @@
 	 border: 1px solid #82ca9c;
 }
  .promoCode a.btn:hover {
-	 border: 1px solid #f69679;
-	 background: #f69679;
+	 border: 1px solid #66a07b;
+	 background: #66a07b;
 }
  .btn:link, .btn:visited {
 	 text-decoration: none;
@@ -282,7 +282,7 @@
 	 transition: all 0.15s linear;
 }
  .btn:hover, .btn:focus, .btn:active {
-	 background: #f69679;
+	 background: #66a07b;
 }
  .btn:hover:after, .btn:focus:after, .btn:active:after {
 	 right: -10px;
@@ -364,4 +364,4 @@
 		 text-align: center;
 	}
 }
- 
+
